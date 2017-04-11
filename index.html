@@ -1,0 +1,59 @@
+---
+layout: default
+title: Balm Beats | Hayley Broder
+meta-description: Hayley Broder | Lead Master Instructor CycleBar Las Vegas
+featured-image_path: /uploads/pr-photos-6472.jpg
+---
+
+  <!-- FIRST BANNER SECTION ---->
+  <section class="box-img fixed"></section>
+
+<!-- SECOND INTRO SECTION ---->
+  <section class="centered about">
+
+    <h1> Welcome to Balm Beats </h1>
+
+    <p class="editable"> Hi I'm Hayley Broder. Welcome to Balm Beats. Give a little background and where you tell everyone how awesome you are living in Vegas being a CB star, and what your blog is about and what Balm Beats means. Now I am just trying to fill space so it looks normal on this page. You can edit this however you want but I think it should be this long to look normal on the page. Surely you have this many things. Maybe you can say that you have a cat named Kizzy and he is black. And maybe that you are going to get married soon. And maybe that I miss you oodles of noodles. Rememeber that one time we did acid in golden gate park?  </p>
+
+<a class="button" href="/about">Full Bio</a>
+
+
+
+  </section>
+
+<!-- THIRD BLOG SECTION 3 LATEST POSTS ---->
+<section>
+    <hr />
+  <h2 class="centered"> Blog </h2>
+
+  <div class="grid blog-loop">
+    {% for post in site.posts limit:3 %}
+      <div class="col-4_sm-12">
+          <a href="{{post.url}}">
+            <img src="{{post.image_path}}">
+            <h3> {{post.title}} </h3>
+            <p class="post-meta">{{post.date | date_to_string }} | By {{post.author}}</p>
+            <p> {{post.excerpt | truncate:100 }} </p>
+          </a>
+        </div>
+      {% endfor %}
+  </div>
+  <div class="centered">
+  <a class="button" href="/blog"> Read More</a>
+</div>
+
+</section>
+<!-- FOURTH MUSIC SECTION ---->
+<section class="grid centered">
+  <div class="col-6">
+    <h2>Ride With Me</h2>
+    <div data-tockify-component="mini" data-tockify-calendar="laura.treganowan"></div>
+<script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script><br />
+
+
+  </div>
+  <div class="col-6">
+  <h2>Tunes</h2>
+  <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Asugarmagnolia6%3Aplaylist%3A40x2i00CjYpqo6p1VTOQhY" width="400" height="450" frameborder="0" allowtransparency="true"></iframe>
+  </div>
+</section>

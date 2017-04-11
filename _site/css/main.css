@@ -1,0 +1,282 @@
+/* INDEX  --------------------
+  - CSS RESET
+  - GENERAL HELPER CLASSES
+  - UNIVERSAL STYLES
+  - HEADER & FOOTER
+  - MODULAR ELEMENTS
+    - Element Name
+  - FORMS
+
+---------------------------
+Website Fonts: List fonts here for reference
+Website Colours: List colour hex codes here for reference
+----------------------------
+*/
+
+/* ---- CSS RESET --------------------------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {max-width: 100%; }
+
+[class*=grid-][class*=-equalHeight]>[class*=col] {
+  display:block;
+}
+
+/* ---- GENERAL HELPER CLASSES --------------------------- */
+.tall         { min-height:100vh; }
+.med-height   { min-height: 50vh; }
+.short        { min-height: 30vh; }
+
+.left         { text-align: left; }
+.centered     { text-align: center; }
+.right        { text-align: right; }
+
+.no-padding { padding: 0; }
+
+.mob-show { display: none;}
+
+.full-width {
+  width:100%
+}
+
+
+/* ----- UNIVERSAL STYLES --------------------------- */
+
+/* Typography */
+body {
+  font-family: 'News Cycle', sans-serif;
+  color: #FDFDFD;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 1.1rem;
+}
+p {
+  margin-bottom: 1rem;
+}
+
+h1 { font-size: 3.0rem; line-height: 1.2; font-family: 'Codystar', cursive; letter-spacing: 5px; 
+}
+h2 { font-size: 2.4rem; line-height: 1.25;font-family: 'Codystar', cursive; letter-spacing: 1px;}
+h3 { font-size: 2.0rem; line-height: 1.3; }
+h4 { font-size: 1.8rem; line-height: 1.35; }
+h5 { font-size: 1.7rem; line-height: 1.5; }
+h6 { font-size: 1.5rem; line-height: 1.5; }
+p  { font-size: 1.1rem; line-height: 1.5;}
+blockquote  { font-size: 1.1rem; line-height: 1.5;}
+li  { font-size: 1.1rem; }
+
+
+/* Padding & Margin */
+
+header, footer  { padding: 2vh 5%;
+text-transform: uppercase;background-color: #383838;}
+
+section         { padding: 10vh 5%;background-color: #383838;}
+
+.about {
+  padding: 6vh 16%;
+}
+
+
+.col,
+[class*=col-]   { padding: 2%; }
+
+
+/* Other universal styles */
+
+.featured{
+  background-color: grey;
+  color: white;
+}
+.fa.featured {
+  color: grey;
+  background: none;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid rgb(245,245,245);
+  margin: 3vh 0;
+}
+.previous, .next {
+    padding: 0 1.5em;
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+}
+
+/* ----- HEADER & FOOTER --------------------------- */
+nav a {
+    text-decoration: none;
+    padding: 1em;
+    color: inherit;
+}
+nav a:hover {
+  color: #c5b358;}
+
+header .fa {
+  font-size: 1.5rem;
+}
+
+.logo {
+  max-height: 2.5rem;
+  max-width: 15rem;
+  margin: 0.5em 0;
+}
+header {
+  border-bottom: 1px solid rgb(245,245,245);
+}
+
+footer {
+  border-top: 1px solid rgb(245,245,245);
+}
+
+
+footer nav .fa,
+.social-share nav .fa {
+  padding: 0 1em 0 0;
+  font-size: 2rem;
+}
+
+.pure-drawer {
+  padding: 5em 3%;
+}
+
+.mob-nav a {
+  display: block;
+  padding: 0.5em;
+}
+
+
+/* ----- MODULAR ELEMENTS --------------------------- */
+.banner {
+  background-color: grey;
+  background-size: cover;
+  background-position: center;
+  min-height:80vh;
+}
+
+.box-img {
+  background-color: grey;
+  background-image: url('/images/yoga-1.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 72vh;
+
+
+}
+
+/* Buttons */
+
+.button {
+  border: 1px solid white;
+  padding: 0.5em 3em;
+  margin: 1em auto;
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+}
+
+.button:hover {
+  border: 2px dotted white;
+
+}
+
+.copyright {
+  color: rgba(197,179,88,0.3);
+  padding-top: 3vh;
+}
+
+
+/* Customising the snipcart pop-up */
+.snip-layout .snip-header,
+.snip-layout .snip-footer {
+  background-color:  gray;
+}
+.snip-layout .snip-footer__copyright {
+  color: white;
+}
+
+/* Blog elements */
+.blog-loop a {
+  color: inherit;
+  text-decoration: none;
+  width: 100%;
+  margin: 0;
+}
+.blog-loop img,
+.post-body img {
+    margin-bottom: 2vh;
+}
+.post-body {
+  padding-right: 3%;
+}
+
+.post-meta {
+  font-size: 0.9rem;
+}
+
+.sidebar > div {
+  border: 1px solid rgb(245,245,245);
+  padding: 2rem;
+  margin: 2vh 0;
+}
+blockquote {
+  border-left: 2px solid rgb(245,245,245);
+  margin-left: 3%;
+  padding-left: 3%;
+  font-weight: 600;
+  color: #c5b358;
+}
+/* Lists */
+ul      { list-style: circle inside; }
+ol      { list-style: decimal inside;}
+ol, ul  { padding-left: 0;
+          margin-top: 0; }
+li      { margin-bottom: 0.5rem; }
+
+/*------- Media Queries ------------------------*/
+@media(max-width:800px) {
+
+  /* --- General Responsive Helpers ----*/
+
+  .mob-hide {
+      display: none!important;
+  }
+  .mob-show {
+    display: block;
+  }
+
+  .mob-flip {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: reverse;
+          -ms-flex-direction: column-reverse;
+              flex-direction: column-reverse;
+  }
+  .mob-flip div {
+      width: 100%; /* This fixes a flexbox bug */
+  }
+
+  /* ------ General Mobile Styles ---------*/
+
+  body,
+  .left,
+  .right {
+    text-align: center;
+  }
+  .col,
+  [class*=col-] {
+    padding: 1rem;
+  }
+  textarea {
+    margin: 0;
+  }
+
+}/* End media query */
