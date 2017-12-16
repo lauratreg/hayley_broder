@@ -9,8 +9,6 @@ author: Heyley Broder
 ---
 
 
-&nbsp;
-
 I’m dedicating the first Balm Beats post to [Scott Melker](http://themelkerproject.com/), who is one of my favorite DJs of all time. &nbsp;Scott blends classics from artists such as Fleetwood Mac, Hall & Oates and Phil Collins with mainstream Hip Hop and R&B to create addictive tracks that you’ll play on repeat and send to friends with the subject line: “MUST LISTEN ASAP.”
 
 Background: Scott was born and raised in Gainesville, Florida, where he began playing the piano and signing at the age of 5. &nbsp;He moved to Philadelphia (my hometown!!) to attend the University of Pennsylvania, where he honed his craft spinning records at local clubs and college parties. &nbsp;
