@@ -9,15 +9,17 @@ author: Heyley Broder
 ---
 
 
-I’m dedicating the first Balm Beats post to Scott Melker who is one of my favorite DJs of all time. &nbsp;Scott blends classics from artists such as Fleetwood Mac, Hall & Oates and Phil Collins with mainstream Hip Hop and R&B to create addictive tracks that you’ll play on repeat and send to friends with the subject line: “MUST LISTEN ASAP.”
+I’m dedicating the first Balm Beats post to [Scott Melker](http://themelkerproject.com/) who is one of my all-time favorite DJs.&nbsp; Scott blends classics from Fleetwood Mac, Hall & Oates and Phil Collins with mainstream Hip Hop and R&B to create addictive tracks that you’ll send to friends with the subject line: “MUST LISTEN ASAP.”
 
-Background: Scott was born and raised in Gainesville, Florida, where he began playing the piano and signing at the age of 5. &nbsp;He moved to Philadelphia (my hometown!!) to attend the University of Pennsylvania, where he honed his craft spinning records at local clubs and college parties.
+**Background:**Scott was born and raised in Gainesville, Florida, where he began playing the piano and signing at the age of 5. &nbsp;He moved to Philadelphia (my hometown!!) to attend the University of Pennsylvania, where he honed his craft spinning records at local clubs and college parties.
 
-Scott is currently based out of Miami and does it all as a husband, father, DJ, producer and leader of 101 Management, a full-service entertainment firm that connects venues with top-notch talent. &nbsp;Scott has played alongside the likes of Public Enemy, TI and Raekwon, performed at events for Obama, Britney and Mariah and served as the official DJ for Target and The Food & Wine Network so yea, he’s pretty legit.
+Scott is currently based out of Miami and does it all as a husband, father, DJ, producer and leader in the entertainment industry.&nbsp; Bragging rights include playing with Public Enemy, performing for Obama and serving as the official DJ for Target.&nbsp;
 
-Discovery: Back in the day, Scott curated tunes for Flywheel where I used to teach indoor cycling. &nbsp;His Hall & Oates mixtape, “Ballin’ Oates”, &nbsp;spread like fire amongst the instructors and I became an instant devotee. &nbsp;I’ve been stalking him on the internet ever since and he’s always been very gracious about it (thanks, Scott!).
+**Discovery:** Back in the day, Scott curated tunes for Flywheel where I used to teach indoor cycling. &nbsp;His Hall & Oates mixtape, “[Ballin’ Oates”](https://www.youtube.com/playlist?list=PLPqtADjEoy1smbdk3Y5iOaWLIzP2m0HNF), &nbsp;spread like fire amongst the instructors and I became an instant devotee. &nbsp;I’ve been stalking him online ever since and he’s always been very gracious about it (thanks, Scott!).
 
-Why I’m obsessed: I feel like Scott Melker gets inside my head and creates remixes that I’ve always wanted but never realized I could have. &nbsp;The depth of his musical knowledge is evidenced by his ability to blend opposite genres and make them seem like they were destined to be played together. &nbsp;Melker understands music as “emotional currency,” [https://www.last.fm/music/Scott+Melker/+wiki] and turns every new release into payday.
+**Why I’m obsessed:** I feel like Scott Melker got into my head *Inception*-style and created songs that only my subconscious could articulate.&nbsp; His mash-ups are so good that it's now hard for me to listen to each song individually without them sounding like something is missing. &nbsp; &nbsp;
+
+Melker understands music as “emotional currency." When we connect with a song, we aren't just singing the words or humming the melody, but forming an attachment as we interpret it through the lens of our personal experience.&nbsp; Melker amplifies that connection when he combines the heady warmth of nostalgia with hip hop from your "Friday Night Pre-Game" playlist.&nbsp; His unique ability to look backward and forward simultaneously makes you feel understood on a holistic level. &nbsp; With Melker, every new release feels like payday.&nbsp;&nbsp;
 
 Top 5 Favorites:
 
