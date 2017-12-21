@@ -9,11 +9,11 @@ author: Heyley Broder
 ---
 
 
-I’m dedicating the first Balm Beats post to [Scott Melker](http://themelkerproject.com/) who is one of my all-time favorite DJs.&nbsp; Scott blends classics from Fleetwood Mac, Hall & Oates and Phil Collins with mainstream Hip Hop and R&B to create addictive tracks that you’ll send to friends with the subject line: “MUST LISTEN ASAP.”
+I’m dedicating the first Balm Beats post to [Scott Melker](http://themelkerproject.com/) who is one of my all-time favorite DJs.&nbsp; Scott blends classics from Fleetwood Mac, Hall & Oates and Phil Collins with mainstream Hip Hop and R&B to create addictive tracks that you’ll send to friends with the subject line: “MUST LISTEN A$AP.”
 
 **Background:**Scott was born and raised in Gainesville, Florida, where he began playing the piano and signing at the age of 5. &nbsp;He moved to Philadelphia (my hometown!!) to attend the University of Pennsylvania, where he honed his craft spinning records at local clubs and college parties.
 
-Scott is currently based out of Miami and does it all as a husband, father, DJ, producer and leader in the entertainment industry.&nbsp; Bragging rights include playing with Public Enemy, performing for Obama and serving as the official DJ for Target.&nbsp;
+Scott is currently based out of Miami and does it all as a husband, father, DJ, producer and leader in the entertainment industry.&nbsp; Bragging rights include sharing a stage with Public Enemy, performing for Obama and serving as the official DJ for Target.&nbsp;
 
 **Discovery:** Back in the day, Scott curated tunes for Flywheel where I used to teach indoor cycling. &nbsp;His Hall & Oates mixtape, “[Ballin’ Oates”](https://www.youtube.com/playlist?list=PLPqtADjEoy1smbdk3Y5iOaWLIzP2m0HNF), &nbsp;spread like fire amongst the instructors and I became an instant devotee. &nbsp;I’ve been stalking him online ever since and he’s always been very gracious about it (thanks, Scott!).
 
