@@ -19,7 +19,7 @@ Scott is currently based out of Miami and does it all as a husband, father, DJ, 
 
 **Why I’m obsessed:** I feel like Scott Melker gets into my head *Inception*-style and creates remixes that only my subconscious could dream up.&nbsp; His mash-ups are so good that it's now hard for me to listen to the original songs individually without feeling like something is missing.&nbsp;
 
-Melker understands music as “emotional currency." When we connect with a song, we aren't just singing the words or humming the melody, but forming personal attachment as we interpret in through the lens of our experiences.&nbsp; Melker amplifies that connection when he combines the heady warmth of nostalgia with hip hop from your "Friday Night Pre-Game" playlist.&nbsp; His unique ability to look backward and forward simultaneously makes you feel understood on a holistic level. &nbsp; With Melker, every new release is payday.&nbsp;&nbsp;
+Melker understands music as “emotional currency." When we connect with a song, we aren't just singing the words or humming the melody, but forming a unique attachment as we interpret it &nbsp;through the personal lens of our memories, feelings, and experiences.&nbsp; Melker amplifies that connection when he combines the heady warmth of nostalgia with hip hop from your "Friday Night Pre-Game" playlist.&nbsp; His unique ability to look backward and forward simultaneously makes you feel understood on a holistic level. &nbsp; With Melker, every new release is payday.&nbsp;&nbsp;
 
 Top 5 Favorites:
 
