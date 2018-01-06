@@ -17,9 +17,9 @@ Scott is currently based out of Miami and does it all as a husband, father, DJ, 
 
 **Discovery:** Back in the day, Scott curated tunes for Flywheel where I used to teach indoor cycling. &nbsp;His Hall & Oates mixtape, “[Ballin’ Oates”](https://www.youtube.com/playlist?list=PLPqtADjEoy1smbdk3Y5iOaWLIzP2m0HNF), &nbsp;spread like fire amongst the instructors and I became an instant devotee. &nbsp;I’ve been stalking him online ever since and he’s always been very gracious about it (thanks, Scott!).
 
-**Why I’m obsessed:** I feel like Scott Melker gets into my head *Inception*-style and creates remixes that only my subconscious could dream up.&nbsp; His mash-ups are so good that it's now hard for me to listen to the original songs individually without feeling like something is missing.&nbsp;
+**Why I’m obsessed:** I feel like Scott Melker crawled into my head *Inception*-style and made remixes that only my subconscious could dream up.&nbsp; His mash-ups are so good that it's now hard for me to listen to the original songs individually without feeling like something is missing.&nbsp;
 
-Melker understands music as “emotional currency." When we connect with a song, we aren't just singing the words or humming the melody, but forming a unique attachment as we interpret it &nbsp;through the personal lens of our memories, feelings, and experiences.&nbsp; Melker amplifies that connection when he combines the heady warmth of nostalgia with hip hop from your "Friday Night Pre-Game" playlist.&nbsp; His unique ability to look backward and forward simultaneously makes you feel understood on a holistic level. &nbsp; With Melker, every new release is payday.&nbsp;&nbsp;
+Melker understands music as “emotional currency." When we feel a connection to a song, we aren't just singing the words or humming the melody.&nbsp; We're triggered by memories, feelings and experiences that infuse the song with personal meaning.&nbsp; Melker intensifies the trigger when he combines the heady warmth of nostalgia with hip hop from your "Friday Night Pre-Game" playlist.&nbsp; His unique ability to look backward and forward simultaneously makes you feel wholly understood on a holistic level.&nbsp; &nbsp;If music is emotional currency, then Melker makes it rain with every new release.
 
 Top 5 Favorites:
 
