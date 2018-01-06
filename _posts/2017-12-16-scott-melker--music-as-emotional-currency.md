@@ -25,24 +25,24 @@ Top 5 Favorites:
 
 ### 1.&nbsp;[“Dream Ride” - Skeetwood Mac](https://soundcloud.com/mashupsfordays/01-dream-ride-ft-fleetwood-mac-ciara-ludacris?in=mashupsfordays/sets/the-melker-project-skeetwood-mac)
 
-*Notes*: Without a doubt, this song gets the most rider requests out of my whole arsenal.
+*Notes*: Without a doubt, this song gets requested most often out of my whole library.
 
 ### 2.&nbsp;[“Twista’s Kiss is on my Lips” - Ballin’ Oates](https://www.youtube.com/watch?v=wxdJPo4-sLQ)
 
-*Notes*: Love this one so much I used it for an instructor audition
+*Notes*: Love this one so much I used it for an instructor audition.
 
 ### 3.&nbsp;[“Otherside” - Red Hot Trilli Peppers](https://www.youtube.com/watch?v=012eWgYrkL4)
 
-*Notes*: Because we all need more Bone Thugs in our lives
+*Notes*: Because we all need more Bone Thugs in our lives.
 
 ### 4. ["Rich Girl Meets Rich Boy - Ballin' Oates"](https://www.youtube.com/watch?v=LGdacWqq4KM)
 
-### ***Notes*:**Perks up a sluggish playlist
+*Notes*:**&nbsp;**Perks up a sluggish playlist.
 
 ### 5.&nbsp;[“Melker’s Invisible Touch” - Trill Collins](https://www.youtube.com/watch?v=NsK1nHX9KD0)
 
-Notes: Perfect for blending in a throwback with a more electronic/hip-hop oriented playlist
+Notes: Perfect for blending a throwback into a more electronic/hip-hop oriented playlist.
 
 **Get More:**
 
-Head to[ Melker’s website](http://themelkerproject.com/)&nbsp;to explore his catalogue and stay up to date on new releases, like his Soul House Mixtapes! &nbsp;Sign up for the mailing list so you never miss a beat.
+Head to[ Melker’s website](http://themelkerproject.com/)&nbsp;to explore his catalogue and stay up to date on new releases, like his Soul House Mixtapes.&nbsp; Sign up for the mailing list so you never miss a beat.
