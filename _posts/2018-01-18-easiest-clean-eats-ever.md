@@ -25,12 +25,12 @@ THAT’S IT!
 
 **Step 1:** Slice banana into ½ inch sections
 
-**Step 2:** Melt the coconut oil under medium/high heat. &nbsp;
+**Step 2:** Melt the coconut oil under medium/high heat.
 
-**Step 3:** Add the banana and cook until the outsides are a nice golden brown, about 5 - 7 minutes, stirring regularly. &nbsp;(If you’re like me and you want ‘em extra crispy, leave on the stove for a couple more minutes).
+**Step 3:** Add the banana and cook until the outsides are a nice golden brown, about 5 - 7 minutes, stirring regularly.  (If you’re like me and you want ‘em extra crispy, leave on the stove for a couple more minutes).
 
 **Step 4:** Sprinkle with cinnamon
 
 <br>**Step 5**: DEVOUR
 
-When the sugar monster hits, this one keeps it at bay. &nbsp;Plus it’s vegan, gluten-free and Whole30 compliant.
+When the sugar monster hits, this one keeps it at bay.  Plus it’s vegan, gluten-free and Whole30 compliant.
